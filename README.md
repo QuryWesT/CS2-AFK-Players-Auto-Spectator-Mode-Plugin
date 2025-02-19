@@ -1,1 +1,4 @@
-# CS2-AFK-Players-Auto-Spectator-Mode-Plugin
+The plugin allows you to set two different times for AFK players on the server. These times can be easily adjusted through the config file. By default, players who are AFK for 15 seconds will receive an on-screen warning message. If the player remains inactive for 30 seconds, they will automatically be switched to spectator mode.
+
+When the plugin is installed, a validation message will appear in the logs. If you see this message, the plugin has been successfully installed. Otherwise, there may have been an error during installation.
+To adjust the warning time and the time for moving AFK players to spectator mode, the plugin will automatically create a configuration file named AFKSpec upon installation. This file will be located in the config folder, and you can easily modify the settings from there.
