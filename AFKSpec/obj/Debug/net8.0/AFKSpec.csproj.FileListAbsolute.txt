@@ -1,0 +1,24 @@
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.AssemblyInfo.cs
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.deps.json
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.dll
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.pdb
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.dll
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\refint\AFKSpec.dll
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.pdb
+C:\Users\Can\Desktop\CS2Plugin\AFKSpec\AFKSpec\obj\Debug\net8.0\ref\AFKSpec.dll
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.deps.json
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.dll
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\bin\Debug\net8.0\AFKSpec.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.AssemblyInfo.cs
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.dll
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\refint\AFKSpec.dll
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\AFKSpec.pdb
+C:\Users\pc\Desktop\Yeni klasör (2)\AFKSpec\AFKSpec\obj\Debug\net8.0\ref\AFKSpec.dll
