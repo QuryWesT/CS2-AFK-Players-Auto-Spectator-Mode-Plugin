@@ -1,0 +1,1 @@
+# CS2-AFK-Players-Auto-Spectator-Mode-Plugin
